@@ -13,4 +13,4 @@
 
 `解密后结果为：<username>/<password>@<server>`
 
-![images](https://github.com/TryA9ain/PLSQL_Crack_Pass/blob/master/1.png)
+![images](https://github.com/TryA9ain/PLSQL_Crack_Pass/blob/master/2.png)
