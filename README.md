@@ -16,3 +16,10 @@
 `解密后结果为：<username>/<password>@<server>`
 
 ![images](https://github.com/TryA9ain/PLSQL_Crack_Pass/blob/master/2.png)
+
+## 参考链接
+https://adamcaudill.com/2016/02/02/plsql-developer-nonexistent-encryption/
+
+## 问题建议
+
+欢迎大佬们提出问题或建议
