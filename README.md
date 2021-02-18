@@ -11,4 +11,6 @@
 
 `PLSQLCrackPass.exe -p user.prefs_Path`
 
+![images](https://github.com/TryA9ain/PLSQL_Crack_Pass/blob/master/1.png)
+
 解密后的结果为：<username>/<password>@<server>
