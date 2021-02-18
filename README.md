@@ -19,6 +19,7 @@
 
 ## 参考链接
 https://adamcaudill.com/2016/02/02/plsql-developer-nonexistent-encryption/
+https://github.com/adamcaudill/PLSQLDevPass
 
 ## 问题建议
 
