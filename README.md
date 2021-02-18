@@ -5,6 +5,8 @@
 
 `for /r c: %a in (*user.prefs) do @echo %a`
 
+![images](https://github.com/TryA9ain/PLSQL_Crack_Pass/blob/master/1.png)
+
 2、使用工具破解保存在本地的密码
 
 `PLSQLCrackPass.exe -p user.prefs_Path`
